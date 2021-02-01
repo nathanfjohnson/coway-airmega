@@ -7,5 +7,5 @@ export = (homebridge) => {
   HAP.Characteristic = homebridge.hap.Characteristic;
   HAP.UUID = homebridge.hap.uuid;
 
-  homebridge.registerPlatform('homebridge-airmega', 'Airmega', AirmegaPlatform, true);
+  homebridge.registerPlatform('homebridge-airmega-nathanfjohnson', 'Airmega-NFJ', AirmegaPlatform, true);
 }
