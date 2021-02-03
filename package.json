@@ -1,6 +1,6 @@
 {
     "name": "coway-airmega",
-    "version": "3.2.0",
+    "version": "3.2.1",
     "description": "Homebridge plugin for the Airmega smart air purifiers",
     "main": "./dist/index.js",
     "author": "Andrew Schaper",
@@ -24,6 +24,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/aschzero/homebridge-airmega"
-    }
+        "url": "https://github.com/nathanfjohnson/coway-airmega"
+    },
+    "keywords": [
+        "coway",
+        "airmega",
+        "airmega-purifier",
+        "coway-airmega",
+        "homebridge-plugin"
+    ]
 }

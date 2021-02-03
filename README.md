@@ -1,4 +1,4 @@
-# coway-airmega [doesn't work yet!] don't install.
+# coway-airmega *doesn't work yet! don't install*
 
 Control and monitor your Airmega purifier with HomeKit.
 
@@ -10,7 +10,6 @@ Control and monitor your Airmega purifier with HomeKit.
 * Toggle between manual and auto mode
 * Reports the current air quality
 * Reports the life levels and change indication for the pre-filter and Max2 filter.
-WORK IN PROGRESS... DOESN'T WORK
 
 ## Prerequisites
 
@@ -31,7 +30,7 @@ Add the following to your homebridge config:
 ```
 "platforms": [
   {
-    "platform": "Airmega",
+    "platform": "Coway-Airmega",
     "username": "myusername",
     "password": "password123"
   }
