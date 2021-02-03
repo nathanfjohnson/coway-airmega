@@ -1,7 +1,7 @@
 {
-    "name": "homebridge-airmega-nathanfjohnson",
-    "version": "3.1.14",
-    "description": "Homebridge plugin for the Airmega air purifier",
+    "name": "coway-airmega",
+    "version": "3.2.0",
+    "description": "Homebridge plugin for the Airmega smart air purifiers",
     "main": "./dist/index.js",
     "author": "Andrew Schaper",
     "license": "MIT",

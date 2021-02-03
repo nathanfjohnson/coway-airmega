@@ -55,7 +55,7 @@ export class AirmegaPlatform {
       accessory = new HAP.Accessory(purifier.name, uuid);
       this.accessories.set(accessory.UUID, accessory);
 
-      this.platform.registerPlatformAccessories('homebridge-airmega', 'Airmega', [accessory]);
+      this.platform.registerPlatformAccessories('coway-airmega', 'Coway-Airmega', [accessory]);
     }
 
     this.registerServices(purifier, accessory, config);
