@@ -1,8 +1,8 @@
-# homebridge-airmega
+# coway-airmega
 
 Control and monitor your Airmega purifier with HomeKit.
 
-[![npm version](http://img.shields.io/npm/v/homebridge-airmega.svg)](https://npmjs.org/package/homebridge-airmega)
+[![npm version](http://img.shields.io/npm/v/coway-airmega.svg)](https://npmjs.org/package/coway-airmega)
 
 ## Functionality
 
@@ -10,6 +10,7 @@ Control and monitor your Airmega purifier with HomeKit.
 * Toggle between manual and auto mode
 * Reports the current air quality
 * Reports the life levels and change indication for the pre-filter and Max2 filter.
+WORK IN PROGRESS... DOESN'T WORK
 
 ## Prerequisites
 
@@ -20,7 +21,7 @@ Control and monitor your Airmega purifier with HomeKit.
 ## Installation
 
 ```
-npm install -g homebridge-airmega
+npm install -g coway-airmega
 ```
 
 ## Configuration
