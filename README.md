@@ -1,4 +1,4 @@
-# coway-airmega
+# coway-airmega [doesn't work yet!] don't install.
 
 Control and monitor your Airmega purifier with HomeKit.
 
